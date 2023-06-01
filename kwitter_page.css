@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(206, 151, 206);
+}
+#test{
+  background-color: aquamarine;
+  line-height: 3;
+    bottom: 0px;
+}
+#messagepagelogo{
+    border-radius: 100px;
+}
+#header{
+color: aliceblue;
+}
+#user_tick{
+    width:20px;
+}
