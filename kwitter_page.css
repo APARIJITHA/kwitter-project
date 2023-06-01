@@ -12,6 +12,6 @@ body{
 #header{
 color: aliceblue;
 }
-#user_tick{
-    width:20px;
+.user_tick{
+    width:40px;
 }
